@@ -1,0 +1,48 @@
+{
+"name": "ToDo Avançado",
+"short_name": "ToDo",
+"start_url": "index.html",
+"display": "standalone",
+"description": "Um aplicativo ToDo Avançado",
+"lang": "Pt-Br",
+"dir": "auto",
+"theme_color": "#333",
+"background_color": "#fff",
+"orientation": "any",
+"icons": [
+    {
+        "src": "/img/todo.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "/img/todo-128.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "/img/sc.png",
+        "sizes": "2880x1800",
+        "type": "image/png",
+        "description": "A screenshot of the home page"
+    }
+],
+"related_applications": [
+    {
+        "platform":"",
+        "url": ""
+    }
+],
+"prefer_related_applications": false,
+"shortcuts": [
+    {
+        "name":"The name you would like to be displayed for your shortcut",
+        "url":"The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
+        "description":"A description of the functionality of this shortcut"
+    }
+]
+}
