@@ -38,7 +38,7 @@
       "purpose": "any"
     },
     {
-      "src": "toDoAvançado/img/manifest-icon-512.maskable.png",
+      "src": "img/manifest-icon-512.maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
